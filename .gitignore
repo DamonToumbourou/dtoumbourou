@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+.*.swp
+.*.swo
+.env
+.DS_Store
+nohup.out
+dtoumbourou.db
+private.py
